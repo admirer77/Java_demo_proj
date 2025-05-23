@@ -11,7 +11,7 @@ This application simply prints "Hello, Maven World!" to the console. It serves a
 
 The project adheres to the standard Maven directory layout. This structure helps Maven understand where to find source code, resources, and tests.
 
-```
+` ``` `
 HelloWorld/
 ├── pom.xml
 └── src/
@@ -27,7 +27,7 @@ HelloWorld/
                 └── example/
                     └── helloworld/
                         └── AppTest.java
-```
+` ``` `
 
 -   `src/main/java`: Contains the main application source code.
 -   `src/main/resources`: Contains application resources (e.g., configuration files, properties).
